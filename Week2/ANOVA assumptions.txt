@@ -1,0 +1,10 @@
+ANOVA assumptions:
+1. Normality
+2. Homogeneity of variance
+3. Independence
+
+Welch’s F-test ANOVA
+This type of ANOVA is used when the assumption of equal variances is not met. For example, a company might use Welch’s F-test to compare the job satisfaction levels of employees in different departments, where each department has a different variance in job satisfaction scores.
+
+MANOVA
+
